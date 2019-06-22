@@ -1,0 +1,10 @@
+2019-06-21 00:18:13,399:DEBUG:Debug message
+2019-06-21 00:18:13,399:INFO:Info message
+2019-06-21 00:18:13,399:WARNING:warning message
+2019-06-21 00:18:13,399:ERROR:Error message
+2019-06-21 00:18:13,399:CRITICAL:critical message
+2019-06-21 00:58:25,225:DEBUG:Debug message
+2019-06-21 00:58:25,225:INFO:Info message
+2019-06-21 00:58:25,225:WARNING:warning message
+2019-06-21 00:58:25,225:ERROR:Error message
+2019-06-21 00:58:25,225:CRITICAL:critical message
